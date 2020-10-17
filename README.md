@@ -1,6 +1,6 @@
 # sketch
 
-The app takes a sketch of the shoe as an input and returns an image of a similar shoe.
+The app takes a sketch of the shoe as an input and returns an image of this shoe.
 
 ## Model
 The model is based on the edges2shoes algorithm which is based on the [pix2pix](https://phillipi.github.io/pix2pix/) algorithm.
