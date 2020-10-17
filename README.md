@@ -27,7 +27,15 @@ GAN losses<br> ( ![AE0000](https://placehold.it/10/AE0000/000000?text=+) : Gener
 
     |1st column: Input / 2nd column: Generated / 3rd column: Target|
     |:---:|
-    |![](demo/edges2shoes_test_results/Test_result_7.png=60x15)|
-    |![](demo/edges2shoes_test_results/Test_result_21.png=60x15)|
-    |![](demo/edges2shoes_test_results/Test_result_55.png=60x15)|
-    |![](demo/edges2shoes_test_results/Test_result_75.png=60x15)|
+    |<img src="demo/edges2shoes_test_results/Test_result_7.png" width="500"/>|
+    |<img src="demo/edges2shoes_test_results/Test_result_21.png" width="500"/>|
+    |<img src="demo/edges2shoes_test_results/Test_result_55.png" width="500"/>|
+    |<img src="demo/edges2shoes_test_results/Test_result_75.png" width="500"/>| 
+    
+## Demo App
+*Be aware that this model doesn't have enough epochs to perform well + I used a limited dataset to reduce the time of training.* <br>
+
+**I'm fetching data from the created Flask server which is running locally on my machine.**
+
+![](demo/demo.gif)
+
